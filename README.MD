@@ -1,1 +1,1 @@
-## Admin Password :: Admin
+## Admin Password :: admin
